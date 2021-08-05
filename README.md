@@ -26,7 +26,7 @@ micro-service1
    Its a service user can access 24/7, so hosting in clould is best option.
  
 1.1 Timezone calculator
-     curl -s -X PUT http://34.125.164.201/time?tz=Asia/Tokyo
+     curl -s -X PUT http://34.125.164.201/time
 
 2. Device Config Queries and Configurator
 
